@@ -34,7 +34,6 @@ jQuery is a popular and easy-to-learn JavaScript library that allows you to mani
 ### Supplemental Materials
 - [jQuery official Documentation](https://api.jquery.com/)
 - [Code School's jQuery course](https://www.codeschool.com/courses/try-jquery)
-- [jQuery Selectors Reference(w3schools)](https://www.w3schools.com/jquery/jquery_ref_selectors.asp)
 - [jQuery tutorial on codecademy](https://www.codecademy.com/learn/learn-jquery).
 
 
@@ -101,6 +100,7 @@ Assign yourself a pair and work with someone who you rarely pair with.
 2. Using the jQuery documentation or other resources as your guide, add the ability to change an element's color when you hover over it with your mouse.
 
 ### Challenge
+1. jQuery online quiz [tutorialspoint](https://www.tutorialspoint.com/jquery/jquery_online_quiz.htm)
 
 ### Check for Understanding
 
